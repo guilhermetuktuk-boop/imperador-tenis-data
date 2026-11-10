@@ -1,9 +1,0 @@
-{
-  "name": "imperador-tenis-data",
-  "version": "1.0.0",
-  "description": "Pipeline de dados da vitrine Imperador Tênis Ofertas",
-  "private": true,
-  "dependencies": {
-    "puppeteer": "^23.0.0"
-  }
-}
